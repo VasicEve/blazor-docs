@@ -12,8 +12,6 @@ position: 20
 
 Bound columns render the name of the field or their `Title` in their header. Through the `HeaderTemplate`, you can define custom content there instead of the title text.
 
->tip If you only want to center and wrap the column header text, you can achieve that with some custom CSS as shown in [this knowledge base article]({%slug grid-kb-center-column-header-content%}).
-
 >caption Sample Header Template
 
 ````CSHTML
@@ -50,7 +48,7 @@ Bound columns render the name of the field or their `Title` in their header. Thr
         </GridColumn>
         <GridColumn>
             <HeaderTemplate>
-                <span>
+                <span class="k-display-flex k-align-items-center">
                     <TelerikIcon Icon="image" />
                     Column with Icon
                 </span>

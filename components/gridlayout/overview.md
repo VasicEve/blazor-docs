@@ -149,7 +149,7 @@ The GridLayout offers the following features:
 
 * `GridLayoutColumn` - define columns in the GridLayout. You can set their widths by using the `Width` paramter exposed on the `<GridLayoutColumn>` tag.
 
-* `GridLayoutRow` - define rows in the GridLayout. You can set their heights by using the `Height` paramter exposed on the `<GridLayoutRow>` tag.
+* `GridLayoutRow` - define rows in the GridLayout. You can set their heights by using the `Height` parameter exposed on the `<GridLayoutRow>` tag.
 
 ## See Also
 

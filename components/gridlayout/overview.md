@@ -147,7 +147,7 @@ The GridLayout offers the following features:
     
 * `GridLayoutItem` - define items in the GridLayout. See the [Items]({%slug gridlayout-items%}) article for more information. 
 
-* `GridLayoutColumn` - define columns in the GridLayout. You can set their widths by using the `Width` paramter exposed on the `<GridLayoutColumn>` tag.
+* `GridLayoutColumn` - define columns in the GridLayout. You can set their widths by using the `Width` parameter exposed on the `<GridLayoutColumn>` tag.
 
 * `GridLayoutRow` - define rows in the GridLayout. You can set their heights by using the `Height` paramter exposed on the `<GridLayoutRow>` tag.
 

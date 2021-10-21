@@ -53,7 +53,7 @@ For more information, refer to:
 * [Telerik UI for Blazor Accessibility Compliance]({%slug accessibility-compliance%})
 
 
-## Technical Specificatns
+## Technical Specifications
 
 * [WAI-ARIA](#wai-aria)
 * [Keyboard navigation](#keyboard-navigation)
